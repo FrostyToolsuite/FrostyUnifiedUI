@@ -1,0 +1,50 @@
+# Build artifacts
+bin/
+obj/
+
+# Avalonia-specific files
+*.pdb
+*.userprefs
+*.ipch
+
+# Temporary files
+*.tmp
+*.log
+*.suo
+*.user
+*.cache
+*.csproj.user
+
+# Figma Exports (if applicable)
+FigmaExports/
+*.fig/
+
+# IDE Specific
+# Visual Studio
+.vscode/
+.vs/
+
+# Rider/JetBrains
+.idea/
+*.iml
+
+# Other IDEs
+.DS_Store
+Thumbs.db
+
+# Versioning Tools and Configuration
+# Git-specific files
+*.orig
+
+# Dependency managers
+*.lock
+
+# Application Data
+# User or application configuration
+appsettings.json
+appsettings.Development.json
+
+# Frostytoolsuite-Specific
+# Tool-specific temporary files or cache
+Temp/
+FrostyToolsuiteLogs/
