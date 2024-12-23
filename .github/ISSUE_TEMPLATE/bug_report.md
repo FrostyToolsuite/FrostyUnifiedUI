@@ -1,10 +1,9 @@
 ---
-name: Bug report
-about: Create a bug report
+name: Bug Report
+about: Create a bug report for Frosty.UI
 title: "[BUG]"
-labels: bug
 status: new
-project: Frosty.UI Development
+project: Frosty.UI Editor
 assignees: metamancer
 
 ---
