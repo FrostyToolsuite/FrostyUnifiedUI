@@ -4,6 +4,7 @@ about: Create a bug report
 title: "[BUG]"
 labels: bug
 status: new
+project: Frosty.UI Development
 assignees: metamancer
 
 ---
