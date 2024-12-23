@@ -1,12 +1,14 @@
 ---
-name: Epic/Story
-about: Document an Epic or User Story for Frosty.UI development
+name: Story
+about: User Story for Frosty.UI development
 labels: enhancement
 status: new
 assignees: 'metamancer'
 ---
 
 # Epic/Story Template
+
+epic:
 
 ## 1. Title  
 *(Provide a concise and descriptive title for the Epic or Story)*  
