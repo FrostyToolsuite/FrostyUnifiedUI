@@ -1,13 +1,14 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: "[NEW]"
+about: Create a bug report
+title: "[BUG]"
 labels: bug
+status: new
 assignees: metamancer
 
 ---
 
-# Frosty.UI Bug Report Template
+# UI Bug Report Template
 
 ## 1. Summary
 - **Title**: *(Brief description of the issue)*  
